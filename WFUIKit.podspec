@@ -32,6 +32,8 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'WFUIKit/Classes/**/*'
   
+  s.ios.framework  = 'UIKit'
+  
   # s.resource_bundles = {
   #   'WFUIKit' => ['WFUIKit/Assets/*.png']
   # }
